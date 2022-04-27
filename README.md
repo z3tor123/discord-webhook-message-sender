@@ -1,4 +1,4 @@
-# webhook-message-sender
+# discord webhook message sender
 
 NOTE : you have to download dhooks library
 
