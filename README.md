@@ -2,7 +2,7 @@
 
 open sender.exe and Enter Your Webhook 
 
-![image](https://user-images.githubusercontent.com/72771279/165551191-bd211f40-0771-44e3-af7e-61a1611a3654.png)
+![image](https://user-images.githubusercontent.com/72771279/165551742-4eb16361-80cd-4f76-9b11-cd21f0c8f3b2.png)
 
 And Enter the Message
 
