@@ -1,5 +1,4 @@
 from dhooks import Webhook
-import os
 def webhook():
     thehook = input("Enter Webhook link : ")
     try:
